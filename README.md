@@ -1,4 +1,4 @@
-<img width="952" height="308" alt="image" src="https://github.com/user-attachments/assets/ed1ecaab-a4c2-45ca-a1d3-728e4fbb6e2f" /># Fraud Detection System
+# Fraud Detection System
 
 ## Project Overview
 This project is a Machine Learning based Fraud Detection System developed using the IEEE-CIS Fraud Detection dataset. The aim of this project is to detect fraudulent financial transactions using machine learning techniques.
